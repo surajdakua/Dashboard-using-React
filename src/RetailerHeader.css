@@ -1,0 +1,8 @@
+.retailerHeader{
+    min-height: 500px;
+    background-position: center-top;
+    background-size: 100% 100%;
+    /* background-image: linear-gradient(-90deg, rgb(253, 0, 42), rgb(204, 61, 97)); */
+    background-color: #11cdef;
+    font-family: 'Ubuntu', sans-serif;
+}

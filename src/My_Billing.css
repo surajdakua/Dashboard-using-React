@@ -1,0 +1,81 @@
+.gst_icon{
+    /* margin-top: -5rem !important; */
+    margin-bottom: 10px;
+   
+}
+
+.provide_txt{
+    background:lightgray;
+    color: white;    
+}
+.pending_txt{
+    background: darkgoldenrod;
+    color:white
+}
+
+.sign_img{
+    border: 1px solid;
+}
+
+.verticalline{
+    border-left: 1px solid orange;
+    margin: 0px 0px;
+}
+
+.images{
+    border-radius: 25% !important;
+    margin-top: -4rem !important;
+}
+
+
+/* progress bar */
+.completion-bar{
+    display: flex;
+}
+/* progress bar */
+
+/* Account details  */
+ul li{
+    list-style: none;
+}
+
+.subdetails {
+    display: flex;
+}
+
+.title{
+    font-weight: 600;
+}
+
+.detailspartone ,.store{
+    font-size: 20px;
+}
+/* Account details  */
+/* learning details  */
+a{
+    text-decoration: none !important;
+}
+
+/* learning details  */
+
+/* help details  */
+
+.help{
+    font-weight: 600;
+}
+
+.maska{
+    display: flex;
+}
+
+.handshake{
+    color: rgb(71, 160, 251);   
+}
+
+.survey{
+    
+    text-decoration: none !important;
+    width: 60% !important;
+    border-radius: 2px;
+}
+/* help details  */
